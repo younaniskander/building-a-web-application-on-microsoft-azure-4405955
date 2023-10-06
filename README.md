@@ -1,6 +1,8 @@
 # Building a Web Application on Microsoft Azure
 This is the repository for the LinkedIn Learning course Building a Web Application on Microsoft Azure. The full course is available from [LinkedIn Learning][lil-course-url].
 
+After completing this course, you can progress to its sequel: [Extend Web Application Functionality on Microsoft Azure][lil-extend-course-url].
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has two folders:
@@ -27,5 +29,6 @@ This folder contains the completed version of the "Wisdom Pet Medicine" web appl
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
+[lil-course-url]: https://www.linkedin.com/learning/building-a-web-application-on-microsoft-azure-22880696
+[lil-extend-course-url]: https://www.linkedin.com/learning/extend-web-application-functionality-on-microsoft-azure
 [lil-thumbnail-url]: http://
